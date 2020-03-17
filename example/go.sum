@@ -1,0 +1,8 @@
+github.com/StackExchange/wmi v0.0.0-20181212234831-e0a55b97c705/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
+github.com/shirou/gopsutil v2.18.12+incompatible/go.mod h1:5b4v6he4MtMOwMlS0TUMTu2PcXUg8+E1lC7eC3UO/RA=
+github.com/soekchl/myUtils v0.0.0-20200316001020-c3a3c1920b02 h1:liuBF71dsmaksFxCdBasovOhVd6bObYDxyOsJTsg0X4=
+github.com/soekchl/myUtils v0.0.0-20200316001020-c3a3c1920b02/go.mod h1:bUC82MID14TitpQ9ejODFnndwzLFZ8lRVQcHmlIyZcI=
+github.com/soekchl/networkLayer v0.0.0-20200317135520-4fd2e6f380e3 h1:qdM5TQYEVW+EZX8KRiepv355wB6NdopG9u1A3AsxLFU=
+github.com/soekchl/networkLayer v0.0.0-20200317135520-4fd2e6f380e3/go.mod h1:uxRLZIcG0v1agi01JUgY8H4DfJ4HFleg27x1oQfduzA=
+golang.org/x/sys v0.0.0-20190726091711-fc99dfbffb4e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
