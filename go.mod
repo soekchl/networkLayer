@@ -1,4 +1,4 @@
-module networkLayer
+module github.com/soekchl/networkLayer
 
 go 1.13
 
